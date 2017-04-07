@@ -1,0 +1,41 @@
+Welcome to UnityCarTest poject
+
+Pre-requisites to compile this solution
+1.- iOS or android SDK installed
+2.- Unity 5.5.2f installed
+ 
+In order to modify the amount of cars on screen
+You just need to modify the number of cars property in the gameManager instance located in the path game object
+The file path can also be modified to the one you in the gameManager instance located in the path game object
+
+the laps to complete and spawn time of the cars on the track comes from the file stream
+
+The file with the data need for the project to work has to be in JSON format according to the following structure:
+
+{
+  "GameConfiguration": {
+    "lapsNumber": "1",
+    "playersInstantiationDelay": "8000"
+  },
+  "Players": [
+    {
+      "Name": "Pippo",
+      "Velocity": "16",
+      "Color": "#5adb72",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Michael",
+      "Velocity": "27",
+      "Color": "#3db2ca",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Fred",
+      "Velocity": "24",
+      "Color": "#6d11f1",
+      "Icon": "http://www.freeiconspng.com/uploads/cat-icon-9.png"
+    }
+	]
+}
+

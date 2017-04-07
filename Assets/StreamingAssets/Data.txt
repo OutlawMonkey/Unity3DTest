@@ -1,0 +1,134 @@
+{
+  "GameConfiguration": {
+    "lapsNumber": "1",
+    "playersInstantiationDelay": "8000"
+  },
+  "Players": [
+    {
+      "Name": "Pippo",
+      "Velocity": "16",
+      "Color": "#5adb72",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Michael",
+      "Velocity": "27",
+      "Color": "#3db2ca",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Fred",
+      "Velocity": "24",
+      "Color": "#6d11f1",
+      "Icon": "http://www.freeiconspng.com/uploads/cat-icon-9.png"
+    },
+    {
+      "Name": "Lorre",
+      "Velocity": "25",
+      "Color": "#2a3036",
+      "Icon": "http://icons.iconarchive.com/icons/iconka/meow/256/cat-purr-icon.png"
+    },
+    {
+      "Name": "Jeff",
+      "Velocity": "27",
+      "Color": "#d83169",
+      "Icon": "http://www.sucaijiayuan.com/uploads/file/content/2015/03/550bc3fb48342.png"
+    },
+    {
+      "Name": "Perl",
+      "Velocity": "26",
+      "Color": "#87b561",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Tango",
+      "Velocity": "24",
+      "Color": "#6485af",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Cash",
+      "Velocity": "23",
+      "Color": "#bdc75a",
+      "Icon": "http://www.sucaijiayuan.com/uploads/file/content/2015/03/550bc3fb48342.png"
+    },
+    {
+      "Name": "Nick",
+      "Velocity": "18",
+      "Color": "#aa586e",
+      "Icon": "http://icons.iconarchive.com/icons/iconka/meow/256/cat-purr-icon.png"
+    },
+    {
+      "Name": "Teo",
+      "Velocity": "21",
+      "Color": "#66cbe2",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Geffy",
+      "Velocity": "19",
+      "Color": "#0e0240",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Kao",
+      "Velocity": "26",
+      "Color": "#83fb4f",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Tao",
+      "Velocity": "23",
+      "Color": "#8573f2",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Ping",
+      "Velocity": "29",
+      "Color": "#7e376b",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Pong",
+      "Velocity": "28",
+      "Color": "#53af07",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Lerp",
+      "Velocity": "24",
+      "Color": "#149c68",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Piff",
+      "Velocity": "25",
+      "Color": "#cc5b09",
+      "Icon": "http://icons.iconarchive.com/icons/iconka/meow/256/cat-purr-icon.png"
+    },
+    {
+      "Name": "Kao",
+      "Velocity": "23",
+      "Color": "#c68204",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    },
+    {
+      "Name": "Mao",
+      "Velocity": "25",
+      "Color": "#a0140b",
+      "Icon": "http://image0.flaticon.com/icons/png/128/70/70078.png"
+    },
+    {
+      "Name": "Pokoy",
+      "Velocity": "22",
+      "Color": "#154227",
+      "Icon": "http://icons.iconarchive.com/icons/iconka/meow/256/cat-purr-icon.png"
+    },
+    {
+      "Name": "Taffy",
+      "Velocity": "23",
+      "Color": "#bab9d3",
+      "Icon": "http://downloadicons.net/sites/default/files/random-user-icon-15571.png"
+    }
+  ]
+}
